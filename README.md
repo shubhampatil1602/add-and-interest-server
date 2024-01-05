@@ -42,10 +42,12 @@ To run this project locally, follow these steps:
 4. **Enjoy:**
    - You should now be able to access and interact with the project locally.
   
-Demo
+### Demo
+
 <img width="1470" alt="Screenshot 2024-01-05 at 3 48 18 PM" src="https://github.com/shubhampatil1602/add-and-interest-server/assets/118606702/f8be96ab-eb83-403b-b096-d7a70f26d0e9">
 
-In case you fail to run server
+### In case you fail to run server
+
 <img width="1470" alt="Screenshot 2024-01-05 at 3 47 47 PM" src="https://github.com/shubhampatil1602/add-and-interest-server/assets/118606702/e9418f96-139e-4da6-8ace-4423c16adef1">
 
 Feel free to explore the code in both the frontend and backend folders to understand how the communication and logic are implemented.
